@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+flask-login
+flask-migrate
+flask-wtf
+python-dotenv
+werkzeug
+openai
+Pillow
+gunicorn
+psycopg2-binary
